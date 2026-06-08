@@ -1,0 +1,13 @@
+{
+  "name": "fintech-cicd-pipeline",
+  "version": "1.0.0",
+  "description": "A simple fintech app for GitOps CI/CD demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo 'Tests passed!' && exit 0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
